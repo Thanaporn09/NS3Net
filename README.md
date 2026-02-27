@@ -4,10 +4,10 @@ This is the official PyTorch implementation repository of the Non-Stationary Spe
 
 ## NS3Net Architecture
 <div align="center">
-  <img src="Figure/Figure1.png"/>
+  <img src="Figure1.png"/>
 </div>
 <div align="center">
-  <img src="Figure/Figure2"/>
+  <img src="Figure2.png"/>
 </div>
 
 ## Acknowledgements
