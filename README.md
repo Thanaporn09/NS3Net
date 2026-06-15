@@ -1,4 +1,4 @@
-# Non-Stationary Spectral State-Space Networks with Region-Wise Frequency Routing for Robust Fundus Vessel Segmentation.
+# Non-Stationary Spectral State-Space Networks with Region-Wise Frequency Routing for Robust Fundus Vessel Segmentation (MICCAI 2026)
 
 This is the official PyTorch implementation repository of the Non-Stationary Spectral State-Space Networks with Region-Wise Frequency Routing for Robust Fundus Vessel Segmentation [Ns3Net].
 
