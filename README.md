@@ -15,10 +15,6 @@ paper: https://papers.miccai.org/miccai-2026/paper/6038_paper.pdf
 
 We acknowledge all the authors of the employed public datasets, allowing the community to use these valuable resources for research purposes. We also thank the authors of [U-Mamba](https://github.com/bowang-lab/U-Mamba) and [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) for making their valuable code publicly available.
 
-<table>
-<tr>
-<td>
-
 ### 📚 Citation
 
 If you find this work useful, please cite:
